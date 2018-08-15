@@ -1,0 +1,18 @@
+@relation natural_vs_manmade
+@attribute filename string
+@attribute color1red numeric
+@attribute color1green numeric
+@attribute color1blue numeric
+@attribute color2red numeric
+@attribute color2green numeric
+@attribute color2blue numeric
+@attribute color3red numeric
+@attribute color3green numeric
+@attribute color3blue numeric
+@attribute color4red numeric
+@attribute color4green numeric
+@attribute color4blue numeric
+@attribute keypoints numeric
+@attribute descriptors numeric
+@attribute class {manmade, natural}
+@data
